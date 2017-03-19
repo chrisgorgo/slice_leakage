@@ -1,6 +1,6 @@
 # Comparison of different reconstruction algorithms and calibration scans for a multi band sequence
 
-The subject was instructed to move their eyes and blink throughout the duration of the reconstructed sequence (but kept their eyes closed for one of the calibration scans - see below). Multiband factor was set to 8. Quality was evaluated using [MRIQC](mriqc.org). The images were 
+The subject was instructed to move their eyes and blink throughout the duration of the reconstructed sequence (but kept their eyes closed for one of the calibration scans - see below). Multiband factor was set to 8. Quality was evaluated using [MRIQC](http://mriqc.org). The images were 
 reconstructed using different algorithms and calibration scans:
 
 1. [1D-GRAPPA with built in (internal) calibration scan - eyes open](https://cdn.rawgit.com/chrisfilo/slice_leakage/033e8b20/reports/sub-pilot1_task-rest_rec-old_bold.html) 
