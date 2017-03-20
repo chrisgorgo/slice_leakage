@@ -4,7 +4,7 @@ The subject was instructed to move their eyes and blink throughout the duration 
 reconstructed using different algorithms and calibration scans:
 
 1. [1D-GRAPPA with built in (internal) calibration scan - eyes open](https://cdn.rawgit.com/chrisfilo/slice_leakage/033e8b20/reports/sub-pilot1_task-rest_rec-old_bold.html) 
-1. [SS-GRAPPA with built in (internal) calibration scan - eyes open](https://cdn.rawgit.com/chrisfilo/slice_leakage/033e8b20/reports/sub-pilot1_task-rest_SSGInternalEyesOpen_bold.html) 
+1. [SS-GRAPPA with built in (internal) calibration scan - eyes open](https://cdn.rawgit.com/chrisfilo/slice_leakage/033e8b20/reports/sub-pilot1_task-rest_rec-SSGInternalCalEyesOpen_bold.html) 
 1. [SS-GRAPPA with high SNR (single band) calibration scan - eyes open](https://cdn.rawgit.com/chrisfilo/slice_leakage/033e8b20/reports/sub-pilot1_task-rest_rec-SSGExternalCalEyesOpen_bold.html) 
 1. [SS-GRAPPA with high SNR (single band) calibration scan - eyes closed](https://cdn.rawgit.com/chrisfilo/slice_leakage/033e8b20/reports/sub-pilot1_task-rest_rec-SSGExternalCalEyesClosed_bold.html) 
 1. [Quality metrics comparison](https://cdn.rawgit.com/chrisfilo/slice_leakage/033e8b20/reports/bold_group.html)
