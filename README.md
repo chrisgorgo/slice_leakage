@@ -9,4 +9,6 @@ reconstructed using different algorithms and calibration scans:
 1. [SS-GRAPPA with high SNR (single band) calibration scan - eyes closed](https://cdn.rawgit.com/chrisfilo/slice_leakage/033e8b20/reports/sub-pilot1_task-rest_rec-SSGExternalCalEyesClosed_bold.html) 
 1. [Quality metrics comparison](https://cdn.rawgit.com/chrisfilo/slice_leakage/033e8b20/reports/bold_group.html)
 
+[Video example of the artifact](https://www.youtube.com/watch?v=GYVny9WPtD4)
+
 Switching from 1D-GRAPPA to SS-GRAPPA slightly reduced the leakage (and only in the white matter - see slices 40-42). Using a fully sampled single band claibration scan almost completely removed leakage. Data reconstructed using eyes closed calibration scan had slightly higher tSNR and SNR, but otherwise the difference between the two was minimal.
